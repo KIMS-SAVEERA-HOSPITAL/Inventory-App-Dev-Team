@@ -1,1 +1,1 @@
-# This is an Inventory Mnanagement Application of KIMS SAVEERA Hospitals Project.
+# This is an Inventory Management Application of KIMS SAVEERA Hospitals Project.
