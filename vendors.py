@@ -1,0 +1,3 @@
+Vendor-Name	Vendor-gst-no
+ABC		31ABDCG1213AD
+XYZ		30XYASDHA78KL
