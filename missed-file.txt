@@ -1,0 +1,2 @@
+echo "This is missing file from the last commit"
+echo "Now adding this file also using git commit --amend command"
