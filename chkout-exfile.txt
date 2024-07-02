@@ -1,3 +1,6 @@
 HELLO WORLD
 THIS IS A CHECKOUT EXAMPLE FILE
 AADAAAA
+updted 
+new data
+not required by the customer
